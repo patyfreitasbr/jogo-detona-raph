@@ -2,7 +2,7 @@
 *Awesome JSGame Detona Ralph*
 
 
-[Sobre](#sobre) • [Demostração](#demostração) • [Tecnologias Utilizadas](#tecnologias-utilizadas) • [Funcionalidades Incríveis](#funcionalidades-incríveis) • []() • [Créditos e Referências](#-créditos-e-referências) • [Contato](#contato)
+[Sobre](#sobre) • [Demostração](#demostração) • [Tecnologias Utilizadas](#tecnologias-utilizadas) • [Funcionalidades Incríveis](#funcionalidades-incríveis) • [Como Jogar](#como-jogar) • [Créditos e Referências](#-créditos-e-referências) • [Contato](#contato)
 
 ## Sobre
 
@@ -10,7 +10,7 @@ Bem-vindo ao JSGame Detona Ralph! Neste repositório, você encontrará um jogo 
 
 ## Demostração
 
-![Exemplo do Mentor Match]()
+![Exemplo do Mentor Match](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgY-4_h1pQuJ32lPnA-qxt6FwQNlfe4f6vRvunxwHR33DIO-cArhJxL3fG47bYee6ePU9vdlYEdsYw79jy8d-jDYytZ6JfCEjTU28MbFJfIVvioHWr04KJ2UQVrj-Mv_GknweHhRMYObrZksOX8MrkPFNN21titawrrxiQJZTu3sUvdvBab3_gdNYFwQSDr/s16000/jogo-detona-ralph.gif)
 
 ## Tecnologias Utilizadas
 - HTML5 e CSS3 para a estrutura e aparência do jogo.
@@ -21,16 +21,12 @@ Sprites e imagens customizadas para criar a estética única do universo de Deto
 Sistema de Pontuação: Acompanhe sua pontuação à medida que progride no jogo e desafie seus amigos a superá-la, clique no quadrado que o Ralph se encontre
 
 ## Como Jogar
-Clone este repositório para sua máquina local.
-Abra o arquivo index.html em seu navegador web.
-Use as setas direcionais para mover o personagem e a barra de espaço para interagir.
-Divirta-se explorando e coletando moedas, mas fique atento aos inimigos!
 
-
+### [Acesse o site]()
 
 ## 📌 Créditos e Referências
 
-Este projeto foi desenvolvido como parte do desafio de um Bootcamp da [Digital Innovation One]( https://www.dio.me/sign-up?ref=2772EA2C589E462BB0C382518E0ACBA2) 
+Este projeto foi desenvolvido como parte do desafio de um [Bootcamp "Ri Happy - Front End do Zero"](https://github.com/patyfreitasbr/bootcamp-frontend-do-zero-dio-ri-happy) da [Digital Innovation One]( https://www.dio.me/sign-up?ref=2772EA2C589E462BB0C382518E0ACBA2) 
 
 Se você achou esse projeto interessante, sinta-se à vontade para dar uma ⭐ no repositório!
 </br>
