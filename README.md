@@ -22,7 +22,7 @@ Sistema de Pontuação: Acompanhe sua pontuação à medida que progride no jogo
 
 ## Como Jogar
 
-### [Acesse o site]()
+### [Acesse o site](https://patyfreitasbr.github.io/jogo-detona-raph/)
 
 ## 📌 Créditos e Referências
 
